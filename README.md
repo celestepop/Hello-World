@@ -1,10 +1,8 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+As a Computer Engineer learning about software, I am reenforcing my knowledge of the basics of Python. I have learned other languages as well. It is my goal to keep learning and practicing my skills in programming. 
 
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
+The program I wrote in this directory displays "Hello world!". Although it's a simple program, I wanted to have an example available to me containing some basic knowledge of Python. That's why I chose to display the phrase using a function. I have a demonstration showing the final product in action linked below. 
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
