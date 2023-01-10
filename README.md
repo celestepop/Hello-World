@@ -10,12 +10,10 @@ The program I wrote in this directory displays "Hello world!". Although it's a s
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used Visual Studio Code to edit and create this program. I used Python because its syntax is different from other languages I have used like C++. It's straight forward syntax makes it easy for beginners to start programming. Although it's not a very efficient language, it helped me to understand concepts I struggled with in languages like C++.
 
-{Describe the programming language that you used}
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [W3 Schools](https://www.w3schools.com/python/default.asp)
+* [Markdown Guide](https://www.markdownguide.org/cheat-sheet/) (for the README file)
