@@ -4,9 +4,7 @@ As a Computer Engineer learning about software, I am reenforcing my knowledge of
 
 The program I wrote in this directory displays "Hello world!". Although it's a simple program, I wanted to have an example available to me containing some basic knowledge of Python. That's why I chose to display the phrase using a function. I have a demonstration showing the final product in action linked below. 
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/pQU0uGll5T4)
 
 # Development Environment
 
